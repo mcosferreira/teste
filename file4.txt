@@ -1,1 +1,2 @@
-Modifying file4.
+Modifying file4, again!
+Now, it was merged to master before this change.
