@@ -1,2 +1,1 @@
-A just new text file.
-A change in this file to force a new commit.
+Modifying it
