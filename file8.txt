@@ -1,3 +1,4 @@
 file8.txt
 From Master
 From Second Branch
+From Master again
